@@ -1,0 +1,16 @@
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\bin\Debug\net10.0-windows\Reto2RutaTesoro.exe
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\bin\Debug\net10.0-windows\Reto2RutaTesoro.deps.json
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\bin\Debug\net10.0-windows\Reto2RutaTesoro.runtimeconfig.json
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\bin\Debug\net10.0-windows\Reto2RutaTesoro.dll
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\bin\Debug\net10.0-windows\Reto2RutaTesoro.pdb
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\obj\Debug\net10.0-windows\Reto2RutaTesoro.FrmRutaTesoro.resources
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\obj\Debug\net10.0-windows\Reto2RutaTesoro.csproj.GenerateResource.cache
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\obj\Debug\net10.0-windows\Reto2RutaTesoro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\obj\Debug\net10.0-windows\Reto2RutaTesoro.AssemblyInfoInputs.cache
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\obj\Debug\net10.0-windows\Reto2RutaTesoro.AssemblyInfo.cs
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\obj\Debug\net10.0-windows\Reto2RutaTesoro.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\obj\Debug\net10.0-windows\Reto2RutaTesoro.dll
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\obj\Debug\net10.0-windows\refint\Reto2RutaTesoro.dll
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\obj\Debug\net10.0-windows\Reto2RutaTesoro.pdb
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\obj\Debug\net10.0-windows\Reto2RutaTesoro.genruntimeconfig.cache
+C:\Users\Jordan\source\repos\Reto2RutaTesoro\Reto2RutaTesoro\obj\Debug\net10.0-windows\ref\Reto2RutaTesoro.dll
